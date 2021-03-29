@@ -1,3 +1,3 @@
-A project develop in FaceApi.Js Next.js and React
+A project develop in FaceApi.js Next.js and React
 
-Show your smile and you video will appear.
+Show your smile and your video will appear.
